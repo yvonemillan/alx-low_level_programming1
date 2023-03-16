@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * Description: main - Prints size of variables to stdout
  * Return: Always 0 (Success)
  */
