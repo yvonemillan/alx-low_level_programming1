@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+processor
+=======
 # 0x0C. C - Preprocessor
 ## About
 An introductory project on:
@@ -17,3 +20,4 @@ An introductory project on:
 **[3-function_like_macro.h](3-function_like_macro.h)** - function-like macro `ABS(x)` that computes the absolute value of a number `x`.
 
 **[4-sum.h](4-sum.h)** - function-like macro `SUM(x, y)` that computes the sum of the numbers `x` and `y`.
+>>>>>>> 9462d4daa97713f9a7dc8a025527682432e8f2cc
